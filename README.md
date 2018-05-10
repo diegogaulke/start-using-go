@@ -13,3 +13,7 @@ https://github.com/golang/go/wiki/SettingGOPATH
 
 ## Organize go code
 https://golang.org/doc/code.html#Organization
+
+## Pointers
+https://tour.golang.org/moretypes/1<br>
+https://flaviocopes.com/golang-does-not-support-indexing/
